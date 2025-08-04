@@ -30,8 +30,9 @@
 ---
 
 ## 📁 Featured Projects
+https://github.com/devbravor1m/Learning-Python-from-scratch
 
-> _Coming soon..._
+> _And more coming soon..._
 
 Stay tuned for personal projects and experiments!
 
